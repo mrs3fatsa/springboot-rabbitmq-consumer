@@ -1,0 +1,63 @@
+<message>
+    <block1>
+        <applicationId>F</applicationId>
+        <serviceId>01</serviceId>
+        <logicalTerminal>FNBCUS44A123</logicalTerminal>
+        <sessionNumber>0000</sessionNumber>
+        <sequenceNumber>000000</sequenceNumber>
+    </block1>
+    <block2 type="input">
+        <messageType>101</messageType>
+        <receiverAddress>BOFAUS6SX123</receiverAddress>
+        <messagePriority>N</messagePriority>
+        <deliveryMonitoring>2</deliveryMonitoring>
+    </block2>
+    <block4>
+        <tag>
+            <name>20</name>
+            <value>091117-DSNY0001</value>
+        </tag>
+        <tag>
+            <name>28D</name>
+            <value>1/1</value>
+        </tag>
+        <tag>
+            <name>50H</name>
+            <value>/12345-67891
+                WALT DISNEY COMPANY
+                MOUSE STREET 1
+                LOS ANGELES CA</value>
+        </tag>
+        <tag>
+            <name>30</name>
+            <value>091117</value>
+        </tag>
+        <tag>
+            <name>21</name>
+            <value>WDC091117RPCUS</value>
+        </tag>
+        <tag>
+            <name>32B</name>
+            <value>USD377250,</value>
+        </tag>
+        <tag>
+            <name>50L</name>
+            <value>WALT DISNEY COMPANY LOS ANGELES CA</value>
+        </tag>
+        <tag>
+            <name>57A</name>
+            <value>WFBIUS6S</value>
+        </tag>
+        <tag>
+            <name>59</name>
+            <value>/26351-38947
+                RIVERS PAPER COMPANY
+                37498 STONE ROAD
+                SAN RAMON CA</value>
+        </tag>
+        <tag>
+            <name>71A</name>
+            <value>OUR</value>
+        </tag>
+    </block4>
+</message>
