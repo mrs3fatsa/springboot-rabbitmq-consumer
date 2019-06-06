@@ -22,7 +22,6 @@ public class SwiftMessageTest {
         conversionService = new ConversionService();
     }
 
-    @Test
     public void testMT101Conversion(){
         try {
             InputStream inputStreamMT101 = getClass().getClassLoader().getResourceAsStream("absa-spring-boot-request.txt");
